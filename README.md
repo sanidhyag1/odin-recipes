@@ -1,1 +1,1 @@
-# odin-recipes
+Practice HTML Project Odin-Project
